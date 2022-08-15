@@ -12,6 +12,8 @@ You will execute the following experiment scenarios against an application that 
 
 ## Environment Setup (This has to be performed by operator. This is a one time setup only)
 
+NOTE: If you are at an AWS event, there might be some initial resources already provisioned for you. Otherwise, create your own Cloud9 IDE and provision your own environment using the script provided in this repository (in the `templates` directory) before you start.
+
 1. To access Cloud9 search for `Cloud9` in the AWS Console and click on Cloud9.
 
 ![Cloud9 Search](/document/images/cloud9_search.png)
