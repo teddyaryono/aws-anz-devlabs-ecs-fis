@@ -211,8 +211,6 @@ b. **Second step** is actual running of the experiment.
 
 ### Conclusion and survey
 
-Thank you for participating in this lab. Please leave us feedback to let us know how we did and for us to improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/EMFOX59).
-
-![Survey QR Code](document/images/qr_code.png)
+Thank you for participating in this lab. Please [leave us feedback](https://github.com/teddyaryono/dotc-devlab-anz-2022/blob/main/README.md) to let us know how we did and for us to improve in future labs.
 
 Please do not forget to close your Cloud9 IDE.
